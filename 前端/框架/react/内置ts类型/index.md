@@ -175,7 +175,9 @@ const onChange = (e) {
 这里注意到，onChange这个合成事件的类型是啥？ 老长一串，哎，这也直接看简单的声明吧
 
 ```tsx
-type EventHandler<E extends SyntheticEvent<any>> = { bivarianceHack(event: E): void }["bivarianceHack"];
+type EventHandler<E extends SyntheticEvent<any>> = { 
+    bivarianceHack(event: E): void 
+}["bivarianceHack"];
 
 type ReactEventHandler<T = Element> = EventHandler<SyntheticEvent<T>>;
 // 剪切板事件处理函数
