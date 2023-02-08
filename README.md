@@ -1,10 +1,7 @@
 
 - [Home](https://guanruihua.github.io/#/)  
 
-<!-- <https://img.shields.io/badge/github-app-blue.svg> -->
-![](https://img.shields.io/badge/docs-api-blue.svg)
-
-| NPM OpenSource | relevant | Status | Desciption |
+| NPM OpenSource | relevant | Status | Description |
 |:----:|:----:|:----:|:----:|
 | [abandonjs](https://github.com/abandonjs/abandonjs) | [![](https://img.shields.io/badge/docs-api-blue.svg)](https://abandonjs.github.io/) | <img class="tag" src="https://img.shields.io/npm/v/abandonjs.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | Common methods of daily development | Type Asserts |
 | [fakingjs](https://github.com/fakingjs/fakingjs) | [![](https://img.shields.io/badge/docs-api-blue.svg)](https://guanruihua.github.io/OpenSource/fakingjs/index.html#/) | <img class="tag" src="https://img.shields.io/npm/v/fakingjs.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | Virtual data |
