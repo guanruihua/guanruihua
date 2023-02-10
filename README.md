@@ -8,9 +8,9 @@
 | [0math](https://github.com/guanruihua/0math) | | <img class="tag" src="https://img.shields.io/npm/v/0math.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> |  Mathematical method (beta) |
 
 | OpenSource Project |
-|:----|
+|:----:|
 | [browser-plugin](https://github.com/guanruihua/browser-plugin) |
 
 | Demo |
-|:----|
+|:----:|
 | [Demo](https://ruihuag-demo.github.io/) |
