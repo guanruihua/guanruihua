@@ -9,9 +9,9 @@
 | [0log](https://github.com/guanruihua/0log) | | <img class="tag" src="https://img.shields.io/npm/v/0log.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | log with type  |
 | [0file-system](https://github.com/abandonjs/0file-system) | | <img class="tag" src="https://img.shields.io/npm/v/0file-system.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | File system secondary encapsulation  (beta) |
 
-| OpenSource Project |
-|:----:|
-| [browser-plugin](https://github.com/guanruihua/browser-plugin) |
+| Plugin | Description |
+|:----:|:----:|
+| [browser-plugin](https://github.com/guanruihua/browser-plugin) | Chrome / Edge Browser Plugin |
 
 | Demo |
 |:----:|
