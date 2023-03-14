@@ -1,4 +1,4 @@
-| NPM OpenSource | relevant | Description |
+| NPM OpenSource | Relevant | Description |
 |:----:|:----:|:----:|
 | [abandonjs](https://github.com/abandonjs/abandonjs) | [![](https://img.shields.io/badge/docs-api-blue.svg)](https://abandonjs.github.io/)  <img class="tag" src="https://img.shields.io/npm/v/abandonjs.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | Common methods of daily development | Type Asserts |
 | [fakingjs](https://github.com/fakingjs/fakingjs) | [![](https://img.shields.io/badge/docs-api-blue.svg)](https://guanruihua.github.io/OpenSource/fakingjs/index.html#/)  <img class="tag" src="https://img.shields.io/npm/v/fakingjs.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | Virtual data |
@@ -9,6 +9,7 @@
 | [0math](https://github.com/guanruihua/0math) |  <img class="tag" src="https://img.shields.io/npm/v/0math.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> |  Mathematical method (beta) |
 | [0log](https://github.com/guanruihua/0log) | <img class="tag" src="https://img.shields.io/npm/v/0log.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | log with type  |
 | [0file-system](https://github.com/abandonjs/0file-system) |  <img class="tag" src="https://img.shields.io/npm/v/0file-system.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | File system secondary encapsulation  (beta) |
+| [type-guard-js](https://github.com/abandonjs/type-guard-js) |  <img class="tag" src="https://img.shields.io/npm/v/type-guard-js.svg?style=flat" alt="version"> <img class="tag" src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"> | Type Guard (beta) |
 
 | Plugin | Description |
 |:----:|:----:|
