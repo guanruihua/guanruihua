@@ -3,6 +3,7 @@
 | [abandonjs](https://github.com/abandonjs/abandonjs) | [![](https://img.shields.io/badge/docs-api-blue.svg)](https://abandonjs.github.io/)  <img class="tag" src="https://img.shields.io/npm/v/abandonjs.svg?style=flat" alt="version">  | Common methods of daily development
 | [harpe](https://github.com/guanruihua/harpe) |  <img class="tag" src="https://img.shields.io/npm/v/harpe.svg?style=flat" alt="version">  | Common methods for browsers
 | [aurad](https://github.com/guanruihua/aurad) | <img class="tag" src="https://img.shields.io/npm/v/aurad.svg?style=flat" alt="version">  | React UI Components(beta)
+| [command-go](https://github.com/guanruihua/command-go) |  <img class="tag" src="https://img.shields.io/npm/v/command-go.svg?style=flat" alt="version">  | Common cmd Commands/Scripts
 | [mock-record](https://github.com/mock-record/mock-record) | <img class="tag" src="https://img.shields.io/npm/v/mock-record.svg?style=flat" alt="version">  | mock data |
 |[unit-testing-js](https://github.com/unit-testing-js/unit-testing-js) | <img class="tag" src="https://img.shields.io/npm/v/unit-testing-js.svg?style=flat" alt="version">  | Method unit test |
 |[unit-testing-react](https://github.com/unit-testing-js/unit-testing-react) | <img class="tag" src="https://img.shields.io/npm/v/unit-testing-react.svg?style=flat" alt="version">  | React common test components |
