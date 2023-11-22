@@ -7,9 +7,8 @@
 
 ## Beta
 
-| | |
-|:----|:----|
 | [![](https://img.shields.io/badge/harpe-github-blue.svg)](https://github.com/guanruihua/harpe)  <img class="tag" src="https://img.shields.io/npm/v/harpe.svg?style=flat" alt="version">  | Common methods for browsers
+|:----|:----|
 | [![](https://img.shields.io/badge/aurad-github-blue.svg)](https://github.com/guanruihua/aurad)  <img class="tag" src="https://img.shields.io/npm/v/aurad.svg?style=flat" alt="version">  | React UI Components(beta)
 | [![](https://img.shields.io/badge/command--go-github-blue.svg)](https://github.com/guanruihua/command-go)   <img class="tag" src="https://img.shields.io/npm/v/command-go.svg?style=flat" alt="version">  | Common cmd Commands/Scripts
 |[![](https://img.shields.io/badge/unit--testing--js-github-blue.svg)](https://github.com/unit-testing-js/unit-testing-js)  <img class="tag" src="https://img.shields.io/npm/v/unit-testing-js.svg?style=flat" alt="version">  | Method unit test |
