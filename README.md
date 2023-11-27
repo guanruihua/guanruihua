@@ -5,11 +5,16 @@
 | [![](https://img.shields.io/badge/asura--eye-github-blue.svg)](https://github.com/abandonjs/asura-eye)  <img class="tag" src="https://img.shields.io/npm/v/asura-eye.svg?style=flat" alt="version">  | Type Asserts |
 | [![](https://img.shields.io/badge/0hook-github-blue.svg)](https://github.com/guanruihua/0hook)   <img class="tag" src="https://img.shields.io/npm/v/0hook.svg?style=flat" alt="version">  |  react hook package (beta) |
 
+## Plugin
+
+| [![](https://img.shields.io/badge/theme-github-blue.svg)](https://github.com/guanruihua/vscode-theme) [![](https://img.shields.io/badge/marketplace-vsocde-blue.svg)](https://marketplace.visualstudio.com/items?itemName=ruihuag.ruihuag) | VSCode Theme Plugin |
+|:----|:----|
+| [![](https://img.shields.io/badge/helper-github-blue.svg)](https://github.com/guanruihua/vscode-theme) [![](https://img.shields.io/badge/marketplace-vsocde-blue.svg)](https://marketplace.visualstudio.com/items?itemName=ruihuag.ruihuag-helper) | VSCode Helper Plugin |
+
 ## Beta
 
-| | |
-|:----|:----|
 | [![](https://img.shields.io/badge/harpe-github-blue.svg)](https://github.com/guanruihua/harpe)  <img class="tag" src="https://img.shields.io/npm/v/harpe.svg?style=flat" alt="version">  | Common methods for browsers
+|:----|:----|
 | [![](https://img.shields.io/badge/aurad-github-blue.svg)](https://github.com/guanruihua/aurad)  <img class="tag" src="https://img.shields.io/npm/v/aurad.svg?style=flat" alt="version">  | React UI Components(beta)
 | [![](https://img.shields.io/badge/command--go-github-blue.svg)](https://github.com/guanruihua/command-go)   <img class="tag" src="https://img.shields.io/npm/v/command-go.svg?style=flat" alt="version">  | Common cmd Commands/Scripts
 |[![](https://img.shields.io/badge/unit--testing--js-github-blue.svg)](https://github.com/unit-testing-js/unit-testing-js)  <img class="tag" src="https://img.shields.io/npm/v/unit-testing-js.svg?style=flat" alt="version">  | Method unit test |
