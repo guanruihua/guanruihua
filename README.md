@@ -10,6 +10,7 @@
 | [![](https://img.shields.io/badge/theme-github-blue.svg)](https://github.com/guanruihua/vscode-theme) [![](https://img.shields.io/badge/marketplace-vsocde-blue.svg)](https://marketplace.visualstudio.com/items?itemName=ruihuag.ruihuag) | VSCode Theme Plugin |
 |:----|:----|
 | [![](https://img.shields.io/badge/helper-github-blue.svg)](https://github.com/guanruihua/vscode-theme) [![](https://img.shields.io/badge/marketplace-vsocde-blue.svg)](https://marketplace.visualstudio.com/items?itemName=ruihuag.ruihuag-helper) | VSCode Helper Plugin |
+| [![](https://img.shields.io/badge/browser--plugin-github-blue.svg)](https://github.com/guanruihua/browser-plugin) |  Chrome / Edge Browser Plugin
 
 ## Beta
 
@@ -24,5 +25,4 @@
 | [![](https://img.shields.io/badge/0math-github-blue.svg)](https://github.com/guanruihua/0math)  <img class="tag" src="https://img.shields.io/npm/v/0math.svg?style=flat" alt="version">  |  Mathematical method (beta) |
 | [![](https://img.shields.io/badge/0log-github-blue.svg)](https://github.com/guanruihua/0log)  <img class="tag" src="https://img.shields.io/npm/v/0log.svg?style=flat" alt="version">  | log with type  |
 | [![](https://img.shields.io/badge/0file--system-github-blue.svg)](https://github.com/abandonjs/0file-system)   <img class="tag" src="https://img.shields.io/npm/v/0file-system.svg?style=flat" alt="version">  | File system secondary encapsulation  (beta) |
-| [![](https://img.shields.io/badge/browser--plugin-github-blue.svg)](https://github.com/guanruihua/browser-plugin) |  Chrome / Edge Browser Plugin
 | [![](https://img.shields.io/badge/Demo-github-blue.svg)](https://ruihuag-demo.github.io/) | Demo / Example
